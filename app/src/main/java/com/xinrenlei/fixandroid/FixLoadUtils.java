@@ -18,7 +18,10 @@ import java.util.List;
 
 public class FixLoadUtils {
 
-
+    /**
+     * 测试的话可以  dx --dex --output=patch.jar com/xinrenlei/fixandroid/Utils.class  可以通过 dx文件生成dex文件
+     * @param mContext
+     */
     public static void fixLoad(Context mContext) {
 
         try {
