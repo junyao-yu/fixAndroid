@@ -9,7 +9,7 @@ package com.xinrenlei.fixandroid;
 public class Utils {
 
     public static String testFunction() {
-        return "修复前";
+        return "修复后";
     }
 
 }
